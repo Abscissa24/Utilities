@@ -1,1 +1,1 @@
-A suite of script sthat make the windows experience better. 
+A suite of scripts that make the windows experience better. 
