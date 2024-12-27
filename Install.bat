@@ -27,9 +27,6 @@ goto :eof
 
 start /b "" "progress-bar.bat" 80 25 60 0 2
 
-curl -L -o %TEMP%\setup-x64.msi https://nilesoft.org/download/shell/1.9.18/setup-x64.msi >nul 2>&1
-msiexec /i %TEMP%\setup-x64.msi /quiet /norestart
-
 curl -L -o %TEMP%\Utilities.zip https://github.com/Abscissa24/Utilities/raw/refs/heads/main/Utilities.zip >nul 2>&1
 powershell -Command "Expand-Archive -Path '%TEMP%\Utilities.zip' -DestinationPath 'C:\Utilities'" >nul 2>&1
 
