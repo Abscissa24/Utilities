@@ -1,3 +1,6 @@
+# <img src="assets/support.ico" alt="WinUtility Pro Logo" width="30"> WinUtility Pro
+
+
 # ⚡ Utilities
 ![Issues](https://img.shields.io/github/issues/Abscissa24/Utilities)
 ![Commit rate](https://img.shields.io/badge/Commit%20rate-3/month-blue)
