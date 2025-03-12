@@ -7,9 +7,3 @@
 
 *A comprehensive suite of scripts designed to enhance performance, seamlessly debloat systems, optimize functionality, and automate complex tasks with precision.
 Eliminate tedious, repetitive processes and achieve unparalleled efficiency.*
-
-## 🚀 Download Latest Version
-
-TEMPLATE
-
-
