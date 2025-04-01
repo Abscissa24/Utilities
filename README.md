@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/support.png" width="200">
   <h1 align="center"><b>Utilities</b></h1>
-  <h3 align="center">A comprehensive suite of scripts for system optimisation and automation</h3>
+  <h3 align="center">A comprehensive suite of scripts for system optimisation.</h3>
 </p>
 
 
@@ -26,7 +26,6 @@
 
 ## 📸 Screenshots
 
-  
   <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/DOC.png?raw=true" width="45%">
   <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/Setup.png?raw=true" width="45%">
   <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/Me.png?raw=true" width="45%">
