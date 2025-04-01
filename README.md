@@ -1,27 +1,47 @@
-<p align="center"><img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/support.png" width="200"></a>
-<h1 align="center"><b>Utilities</b></h1>
-<h4 align="center">A comprehensive suite of scripts designed to enhance performance, seamlessly debloat systems, optimize functionality, and automate complex tasks with precision.
-Eliminate tedious, repetitive processes and achieve unparalleled efficiency.
-</h4>
-<br />
+<p align="center">
+  <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/support.png" width="200">
+  <h1 align="center"><b>Utilities</b></h1>
+  <h3 align="center">A comprehensive suite of scripts for system optimization and automation</h3>
+</p>
 
 <p align="center">
+  <a href="#features">Features</a> •
+  <a href="#screenshots">Screenshots</a> •
+  <a href="#stats">Stats</a> •
+  <a href="#support">Support</a>
+</p>
+
+<p align="center">
+  <img alt="GitHub issues" src="https://img.shields.io/github/issues/Abscissa24/Utilities?color=blue">
+  <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Abscissa24/Utilities">
+  <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/Abscissa24/Utilities">
+  <img alt="GitHub repo size" src="https://img.shields.io/github/repo-size/Abscissa24/Utilities">
+</p>
+
+---
+
+## ✨ Features
+
+- 🚀 **Performance Enhancement**: Optimize your system for maximum speed
+- 🧹 **Seamless Debloating**: Remove unnecessary components effortlessly
+- ⚙️ **Functionality Optimization**: Fine-tune your system's capabilities
+- 🤖 **Task Automation**: Automate complex and repetitive processes
+- ⏱️ **Efficiency Boost**: Save time with streamlined operations
+
+---
+
+## 📸 Screenshots
+
+<div align="center">
   
-![Issues](https://img.shields.io/github/issues/Abscissa24/Utilities)
-![Commit rate](https://img.shields.io/badge/Commit%20rate-3/month-blue)
-![Last commit](https://img.shields.io/github/last-commit/Abscissa24/Utilities)
-![Code size](https://img.shields.io/github/repo-size/Abscissa24/Utilities)
+  <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/DOC.png?raw=true" width="45%">
+  <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/Setup.png?raw=true" width="45%">
+  <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/Me.png?raw=true" width="45%">
+</div>
+
+---
 
 
-## Screenshots:
-
-<img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/DOC.png?raw=true"></a>
-<br />
-<br />
-
-<img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/Setup.png?raw=true"></a>
-<br />
-<br />
-
-<img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/Me.png?raw=true"></a>
-<br />
+## ❤️ Support
+If you find this project useful, consider starring ⭐ the repository!
+</p>
