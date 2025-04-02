@@ -4,7 +4,6 @@
   <h3 align="center">A comprehensive suite of scripts for system optimisation.</h3>
 </p>
 
-
 <p align="center">
   <img alt="GitHub issues" src="https://img.shields.io/github/issues/Abscissa24/Utilities?color=blue">
   <img alt="GitHub commit activity" src="https://img.shields.io/github/commit-activity/m/Abscissa24/Utilities">
@@ -26,18 +25,27 @@
 
 ## 📸 Screenshots
 
-  
-  <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/Setup.png?raw=true" width="45%">
-  <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/Me.png?raw=true" width="45%">
-  <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/brave_qYUPKmDcVc.png?raw=true" width="45%">
-  <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/image.png?raw=true" width="45%">
-</div>
+<img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/Setup.png?raw=true" width="60%">
+<img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/Me.png?raw=true" width="60%">
+<img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/brave_ZL2jUrYdtB.png?raw=true" width="60%">
+<img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/brave_uCnlBdQrXf.png?raw=true" width="60%">
+<img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/r2Pu0bdI3g.png?raw=true" width="60%">
+<img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/context.png?raw=true" width="30%">
 
 ---
 
 ## ❤️ Support
-If you find this project useful, consider:
-- Giving the repository a star ⭐
-- Supporting via <a href="https://www.paypal.com/donate/?hosted_button_id=DZ8G3SJHXS74Q" target="_blank">PayPal Donation</a>
+If this project helps you, please consider:
 
-</p>
+⭐ **Starring the repository**  
+☕ **Buying me a coffee**  
+
+<form action="https://www.paypal.com/donate" method="post" target="_top" style="display: inline-block; margin-top: 10px;">
+<input type="hidden" name="hosted_button_id" value="DZ8G3SJHXS74Q" />
+<input type="image" src="https://pics.paypal.com/00/s/N2I2YmIwNDMtNTE2YS00YTU5LTk4OWYtMDIxZWZkYTkwZjdl/file.JPG" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" style="height: 40px !important;"/>
+<img alt="" border="0" src="https://www.paypal.com/en_ZA/i/scr/pixel.gif" width="1" height="1" />
+</form>
+
+**Why support?**  
+Your generosity helps me maintain and improve these utilities, add new features,  
+and keep everything free and open-source for the community. Every contribution makes a difference!
