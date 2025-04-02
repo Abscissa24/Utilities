@@ -26,9 +26,11 @@
 
 ## 📸 Screenshots
 
-  <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/DOC.png?raw=true" width="45%">
+  
   <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/Setup.png?raw=true" width="45%">
   <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/Me.png?raw=true" width="45%">
+  <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/brave_qYUPKmDcVc.png?raw=true" width="45%">
+  <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/image.png?raw=true" width="45%">
 </div>
 
 ---
