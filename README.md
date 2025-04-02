@@ -40,11 +40,12 @@ If this project helps you, please consider:
 ⭐ **Starring the repository**  
 ☕ **Buying me a coffee**  
 
-<form action="https://www.paypal.com/donate" method="post" target="_top" style="display: inline-block; margin-top: 10px;">
+<form action="https://www.paypal.com/donate" method="post" target="_top">
 <input type="hidden" name="hosted_button_id" value="DZ8G3SJHXS74Q" />
-<input type="image" src="https://pics.paypal.com/00/s/N2I2YmIwNDMtNTE2YS00YTU5LTk4OWYtMDIxZWZkYTkwZjdl/file.JPG" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" style="height: 40px !important;"/>
+<input type="image" src="https://pics.paypal.com/00/s/N2I2YmIwNDMtNTE2YS00YTU5LTk4OWYtMDIxZWZkYTkwZjdl/file.JPG" border="0" name="submit" title="PayPal - The safer, easier way to pay online!" alt="Donate with PayPal button" />
 <img alt="" border="0" src="https://www.paypal.com/en_ZA/i/scr/pixel.gif" width="1" height="1" />
 </form>
+
 
 **Why support?**  
 Your generosity helps me maintain and improve these utilities, add new features,  
