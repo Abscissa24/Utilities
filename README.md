@@ -33,7 +33,9 @@
 
 ---
 
-
 ## ❤️ Support
-If you find this project useful, consider starring ⭐ the repository!
+If you find this project useful, consider:
+- Giving the repository a star ⭐
+- Supporting via <a href="https://www.paypal.com/donate/?hosted_button_id=DZ8G3SJHXS74Q" target="_blank">PayPal Donation</a>
+
 </p>
