@@ -25,12 +25,12 @@
 
 ## 📸 Screenshots
 
-<img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/Setup.png?raw=true" width="60%">
+<img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/Stable.png?raw=true" width="60%">
+<img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/Experimental.png?raw=true" width="60%">
+<img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/Run%20Commands.png?raw=true" width="60%">
+<img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/Menu.png?raw=true" width="60%">
 <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/Me.png?raw=true" width="60%">
-<img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/brave_ZL2jUrYdtB.png?raw=true" width="60%">
-<img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/brave_uCnlBdQrXf.png?raw=true" width="60%">
-<img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/r2Pu0bdI3g.png?raw=true" width="60%">
-<img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/context.png?raw=true" width="30%">
+<img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/Context.png?raw=true" width="30%">
 
 ---
 
@@ -47,3 +47,4 @@ If this project helps you, please consider:
 **Why support?**  
 Your generosity helps me maintain and improve these utilities, add new features,  
 and keep everything free and open-source for the community. Every contribution makes a difference!
+ 
