@@ -28,7 +28,7 @@
 Paste this command into CMD or PowerShell:
 
 ```
-powershell -c "ni -f -it d $env:AppData\Utilities;iwr 'https://tinyurl.com/y3rm6r44' -OutFile $env:AppData\Utilities\Setup.bat;saps $env:AppData\Utilities\Setup.bat"
+powershell -c "ni -f -it d $env:AppData\Utilities;iwr 'https://github.com/Abscissa24/Utilities/releases/download/Rolling-Release/Setup.bat' -OutFile $env:AppData\Utilities\Setup.bat;saps $env:AppData\Utilities\Setup.bat"
 ```
 
 ---
