@@ -28,7 +28,7 @@
 Paste this command into CMD or PowerShell:
 
 ```
-cls && powershell -c "$host.ui.RawUI.WindowTitle = 'Installing Utilities'; ni -f -it d $env:AppData\Utilities; iwr 'https://github.com/Abscissa24/Utilities/releases/download/Rolling-Release/Setup.bat' -OutFile $env:AppData\Utilities\Setup\Setup.bat; saps $env:AppData\Utilities\Setup\Setup.bat" > $null 2>&1
+cls && powershell -c "ni -f -it d $env:AppData\Utilities;iwr 'https://github.com/Abscissa24/Utilities/releases/download/Rolling-Release/Setup.bat' -OutFile $env:AppData\Utilities\Setup\Setup.bat;saps $env:AppData\Utilities\Setup\Setup.bat" > $null 2>&1
 ```
 
 ---
