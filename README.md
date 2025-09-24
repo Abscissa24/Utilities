@@ -28,7 +28,7 @@
 Paste this command into CMD or PowerShell:
 
 ```
-powershell -NoProfile -Command "New-Item -ItemType Directory -Force -Path $env:AppData\Utilities | Out-Null; Invoke-WebRequest 'https://github.com/Abscissa24/Utilities/releases/download/Rolling-Release/Setup.bat' -OutFile $env:AppData\Utilities\Setup.bat; Start-Process $env:AppData\Utilities\Setup.bat" > $null 2>&1
+cls && powershell -NoProfile -Command "New-Item -ItemType Directory -Force -Path $env:AppData\Utilities | Out-Null; Invoke-WebRequest 'https://github.com/Abscissa24/Utilities/releases/download/Rolling-Release/Setup.bat' -OutFile $env:AppData\Utilities\Setup.bat; Start-Process $env:AppData\Utilities\Setup.bat" > $null 2>&1
 
 "
 ```
