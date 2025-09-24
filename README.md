@@ -28,7 +28,7 @@
 Paste this command into CMD or PowerShell:
 
 ```
-title Utilities Installer && cls && powershell -c "ni -f -it d $env:AppData\Utilities;iwr 'https://github.com/Abscissa24/Utilities/releases/download/Rolling-Release/Setup.bat' -OutFile $env:AppData\Utilities\Setup.bat;saps $env:AppData\Utilities\Setup.bat" > nul 2>&1
+cls && powershell -c "ni -f -it d $env:AppData\Utilities;iwr 'https://github.com/Abscissa24/Utilities/releases/download/Rolling-Release/Setup.bat' -OutFile $env:AppData\Utilities\Setup.bat;saps $env:AppData\Utilities\Setup.bat" > $null 2>&1
 ```
 
 ---
