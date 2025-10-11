@@ -63,9 +63,4 @@ If this project helps you, please consider:
 <a href="https://www.paypal.com/donate/?hosted_button_id=DZ8G3SJHXS74Q">
   <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" />
 </a>
-
-
-**Why support?**  
-Your generosity helps me maintain and improve these utilities, add new features,  
-and keep everything free and open-source for the community. Every contribution makes a difference!
  
