@@ -45,11 +45,21 @@ powershell -c "cls; iwr https://git.new/zhV1D2s -OutFile $env:Downloads\Setup.ba
 
 ---
 
+## 🦋 [BETA] Linux Quick Install
+
+Paste this into any terminal:
+
+```
+null
+```
+
+---
+
 ## ❤️ Support
 If this project helps you, please consider:
 
 ⭐ **Starring the repository**  
-☕ **Buying me a coffee**  
+☕ **Contributing**  
 <a href="https://www.paypal.com/donate/?hosted_button_id=DZ8G3SJHXS74Q">
   <img src="https://raw.githubusercontent.com/stefan-niedermann/paypal-donate-button/master/paypal-donate-button.png" alt="Donate with PayPal" />
 </a>
