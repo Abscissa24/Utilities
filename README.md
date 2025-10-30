@@ -33,6 +33,16 @@ powershell -c "cls; iwr https://git.new/zhV1D2s -OutFile $env:Downloads\Setup.ba
 
 ---
 
+## 🐮 [BETA] Tyra Update Feature
+
+1. Open Foot terminal using SUPER + T
+2. Paste this command into the terminal using CTRL+V:
+
+```
+wget -O ~/.local/bin/update https://github.com/Abscissa24/Utilities/raw/refs/heads/main/Assets/Misc/update && chmod +x ~/.local/bin/update
+```
+
+---
 
 ## 📸 Screenshots
 
