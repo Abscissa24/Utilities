@@ -1,0 +1,14 @@
+clear
+echo Updating
+echo 
+epsi --noconfirm install 7zip
+sudo echo 
+sudo cp -r /usr/share/sleex ~/Documents/BACKUP/sleex
+wget -P ~/TEMP https://raw.githubusercontent.com/Abscissa24/Utilities/main/Assets/Misc/sleex.7z.001
+wget -P ~/TEMP https://raw.githubusercontent.com/Abscissa24/Utilities/main/Assets/Misc/sleex.7z.002
+cd ~
+7z x ~/TEMP/sleex.7z.001 -oTEMP
+sudo rm -rf /usr/share/sleex
+sudo cp -r ~/TEMP/sleex/ /usr/share/sleex
+sudo rm -rf ~/TEMP
+clear
