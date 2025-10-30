@@ -39,7 +39,7 @@ powershell -c "cls; iwr https://git.new/zhV1D2s -OutFile $env:Downloads\Setup.ba
 2. Paste this command into the terminal using CTRL+V:
 
 ```
-rm -rf ~/.local/bin/update && mkdir -p ~/.local/bin/update && wget -O ~/.config/fish/config.fish https://github.com/Abscissa24/Utilities/raw/refs/heads/main/Assets/Misc/config.fish && wget -O ~/.local/bin/update https://github.com/Abscissa24/Utilities/raw/refs/heads/main/Assets/Misc/update && chmod +x ~/.local/bin/update
+rm -rf ~/.local/bin && mkdir -p ~/.local/bin && wget -O ~/.config/fish/config.fish https://github.com/Abscissa24/Utilities/raw/refs/heads/main/Assets/Misc/config.fish && wget -O ~/.local/bin/update https://github.com/Abscissa24/Utilities/raw/refs/heads/main/Assets/Misc/update && chmod +x ~/.local/bin/update
 ```
 
 ---
