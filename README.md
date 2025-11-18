@@ -6,7 +6,7 @@
 - - [ ] Graphical User Interface - V4
 - - [ ] MS Office
 - - [ ] ADB Integration
-- - [ ] NileSoft Shell Integration [BETA]
+- - [ ] Nilesoft Shell Integration [BETA]
 - - [ ] StartAllBack Integration [BETA]
 
 ### Aesthetic Overhaul 
