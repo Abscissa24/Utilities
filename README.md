@@ -4,7 +4,7 @@
 
 ### Utilities GUI
 - - [ ] Graphical User Interface - V4
-- - [ ] MS Office
+- - [X] MS Office
 - - [ ] ADB Integration
 - - [ ] Nilesoft Shell Integration [BETA]
 - - [ ] StartAllBack Integration [BETA]
@@ -19,10 +19,16 @@
 - - [X] Optimisations
 - - [X] Performance Improvements
 - - [X] FastFetch integration
-- - [ ] FigLet integration (Again) because hardcoding is messy and not feasible for future pipeline development 
+
+### Version-X 10.202601XX - January Update
+- - [ ] Patches
+- - [ ] Bug fixes
+- - [ ] Optimisations
+- - [ ] Performance Improvements
 
 ### BATCH has its limitations [BETA]
 - - [ ] Global Migration to PowerShell
 - - [ ] Alternative PS1 Core
 - - [X] Deprecate Command-Line Interface (CLI) for legacy
 - - [X] Migrate to Text User Interface (TUI) for legacy
+- - [ ] FigLet integration (Again) because hardcoding is messy and not feasible for future pipeline development 
