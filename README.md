@@ -1,4 +1,4 @@
-# 🚧 MAINTENANCE 🚧
+#  MAINTENANCE FINISHED
 
 ## Completed:
 
@@ -30,16 +30,14 @@
 ### BATCH has its limitations [BETA]
 - - [X] Global Migration to PowerShell
 - - [X] Alternative PS1 Core
-        
-## In Progress:
-- - [ ] GitHub Structure
-- - [ ] Nilesoft Shell Integration [BETA]
 
 ## Roadmap:
 ### Utilities GUI
 - - [ ] Graphical User Interface - V4
 - - [ ] StartAllBack Integration [BETA]
-
+- - [ ] GitHub Structure
+- - [ ] Nilesoft Shell Integration [BETA]
+- 
 ### Aesthetic Overhaul 
 - - [ ] Website Development
 
