@@ -7,6 +7,7 @@
 - - [X] Bug fixes
 - - [X] Optimisations
 - - [X] Performance Improvements
+- - [X] Critical Hotfixes (20+)
         
 ### Version-X 10.2601XX - January Update
 - - [X] Patches
@@ -37,8 +38,8 @@
 - - [ ] StartAllBack Integration [BETA]
 - - [ ] GitHub Structure
 - - [ ] Nilesoft Shell Integration [BETA]
-- 
+
 ### Aesthetic Overhaul 
 - - [ ] Website Development
 
-# 19/24 tasks done. 79% completed 
+# 20/25 tasks done. 80% completed 
