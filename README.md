@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/support.ico" width="200">
+  <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Misc/support.ico" width="200">
   <h1 align="center"><b>Utilities</b></h1>
   <h3 align="center">A comprehensive suite of modules for system optimisation.</h3>
 </p>
@@ -37,6 +37,9 @@ Alternatively, [download](https://github.com/Abscissa24/Utilities/releases/downl
 <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/XXXXXXXXXXXXXXXXXXXXXXXX?raw=true" width="60%">
 <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/XXXXXXXXXXXXXXXXXXXXX?raw=true" width="60%">
 <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/XXXXXXXXXXXXXXXXXXXXXX?raw=true" width="30%">
+
+## 🛠️ Complete Timeline
+### View the [roadmap](https://raw.githubusercontent.com/Abscissa24/Utilities/refs/heads/main/Assets/Misc/timeline.md)
 
 ## ❤️ Support
 If this project helps you, please consider:
