@@ -1,7 +1,7 @@
 <p align="center">
   <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/support.png" width="200">
   <h1 align="center"><b>Utilities</b></h1>
-  <h3 align="center">A comprehensive suite of scripts for system optimisation.</h3>
+  <h3 align="center">A comprehensive suite of modules for system optimisation.</h3>
 </p>
 
 <p align="center">
