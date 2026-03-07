@@ -39,7 +39,7 @@ Alternatively, [download](https://github.com/Abscissa24/Utilities/releases/downl
 <img src="https://github.com/Abscissa24/Utilities/blob/main/Assets/Screenshots/XXXXXXXXXXXXXXXXXXXXXX?raw=true" width="30%">
 
 ## 🛠️ Complete Timeline
-### View the [roadmap](https://raw.githubusercontent.com/Abscissa24/Utilities/refs/heads/main/Assets/Misc/timeline.md)
+### View the [roadmap](https://github.com/Abscissa24/Utilities/blob/main/Assets/Misc/timeline.md)
 
 ## ❤️ Support
 If this project helps you, please consider:
